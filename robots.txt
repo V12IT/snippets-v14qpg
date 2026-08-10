@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://V12IT.github.io/snippets-v14qpg/sitemap.xml
